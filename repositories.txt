@@ -1,4 +1,2 @@
-airbnb/visx
-gatsbyjs/gatsby
-storybookjs/storybook
-behave/behave
+google/docsy
+google/docsy-example
